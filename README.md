@@ -1,3 +1,4 @@
+
 # 🔍 Image Search App
 
 <div align="center">
@@ -144,7 +145,7 @@ image-search-app/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/shruparkar1234/image-search-app-2.git
+git clone https://github.com/shruparkar1234/image-search-app.git
 cd image-search-app
 ```
 
@@ -384,8 +385,7 @@ SOFTWARE.
 **Shrushti Parkar**
 
 - GitHub: [@shruparkar1234](https://github.com/shruparkar1234)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- Email: shrushtiparkar@gmail.com
 
 ---
 
@@ -429,7 +429,7 @@ Future enhancements planned:
 
 ### ⭐ Star this repository if you find it helpful!
 
-**Made with ❤️ by Shrushti Parkar**
+**Made by Shrushti Parkar**
 
 [Back to Top](#-image-search-app)
 
